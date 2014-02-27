@@ -1,0 +1,192 @@
+body > .container {
+}
+#home {
+  height: 420px;
+}
+.hero-unit {
+  background-image: url('../img/IWCM-web-banner.jpg');
+  height: 418px;
+  background-position: center top ;
+  background-repeat: no-repeat;
+}
+.hero-unit-par {
+  padding-top: 270px;
+}
+#main-subject{
+  font-size: 38px;
+}
+#main-subject a {
+  margin: 0px 10px 0px 10px;
+  color: #333;
+/*  background: rgba(255,255,255,0.4); */
+}
+#main-subject a:hover {
+  text-decoration: none;
+}
+#sub-subject {
+  font-size: 24px;
+  color: #333;
+  margin: 10px 0px 20px 0px;
+}
+#sub-subject a {
+  padding: 2px 5px 2px 5px;
+  color: #333;
+/*  background: rgba(255,255,255,0.4);*/
+}
+#sub-subject a:hover {
+  text-decoration: none;
+}
+.hero-unit > li {
+  margin: 0px 15px 10px 0px;
+  float:left;
+  list-style: none;
+}
+.hero-unit li a {
+}
+#date {
+  font-size: 18px;
+  color: #333;
+  text-align: center;
+  margin: 10px 0px 0px 0px;
+}
+.location {
+  font-size: 18px;
+  color: #333;
+  text-align: center;
+  margin: 0px 0px 20px 0px;
+}
+#cselogo {
+}
+
+#cselogo img {
+  width: 220px;
+  height: 70px;
+}
+#page-header {
+  margin: 0px 0px 0px 0px;
+}
+/*
+#head-organizer img {
+  width: 250px;
+  height: 250px;
+}
+#head-organizer p {
+  text-align: center;
+}
+
+#head-organizer h2 {
+  margin-top: 20px;
+}
+
+#head-organizer .btn {
+  margin-top: 20px;
+}
+*/
+#head-organizer a {
+  color: #000000;
+  font-size: 14px;
+}
+#head-organizer li {
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+#head-organizer a:hover {
+  color: #000000;
+  text-decoration: none;
+}
+
+#li-logo {
+  list-style-type:none; 
+}
+#li-logo a {
+  text-align: center;
+}
+#organizer-logo {
+  padding-left: 100px;
+  text-align: center;
+}
+#head-submission li {
+  color: #000000;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+#head-speaker a {
+  color: #000000;
+  font-size: 14px;
+}
+
+#head-speaker li {
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+#head-speaker a:hover {
+  color: #000000;
+  text-decoration: none;
+}
+
+#head-importantdate a {
+  font-size: 14px;
+}
+
+#head-importantdate li {
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+#head-submission li {
+  color: #000000;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+#head-sci-committee a {
+  color: #000000;
+  font-size: 14px;
+}
+
+#head-sci-committee li {
+  margin-bottom: 10px;
+}
+
+#head-sci-committee a:hover {
+  color: #000000;
+  text-decoration: none;
+}
+#head-where h4 {
+  color: #333;
+  text-align: center;
+}
+#head-where h3 {
+  color: #333;
+  font-size: 20px;
+}
+#head-where li {
+  list-style: none;
+}
+#map {
+  margin-top: 30px;
+}
+#map_canvas_cse {
+  width: 460px;
+  height: 300px;
+}
+
+#map_canvas_jang {
+  width: 460px;
+  height: 300px;
+}
+
+
+#head-map li  {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+#head-map p  {
+  text-align: center;
+}
+.row {
+  margin-bottom: 30px;
+}
